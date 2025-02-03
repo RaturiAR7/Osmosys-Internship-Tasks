@@ -1,0 +1,19 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  column-gap: 30px;
+}
+nav {
+  display: flex;
+  gap: 30px;
+}
+.main-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  grid-column: 1/-1;
+}
+footer {
+  grid-column: 1/-1;
+  justify-self: center;
+}

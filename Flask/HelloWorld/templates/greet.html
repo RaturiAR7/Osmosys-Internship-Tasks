@@ -1,0 +1,14 @@
+{% extends "layout.html" %} {% block body %}
+<h1>
+  Hello,
+  <span
+    style="
+      color: chocolate;
+      font-style: italic;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    "
+  >
+    {% if name %} {{name}} {% else %} world {% endif %}
+  </span>
+</h1>
+{% endblock %}

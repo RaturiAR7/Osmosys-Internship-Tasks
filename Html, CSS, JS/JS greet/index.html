@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form onsubmit="greet()" ;return false;>
+      <input type="text" id="name" placeholder="Enter your name" />
+      <input type="submit" />
+    </form>
+    <script>
+      const greet = () => {
+        // const name = document.getElementById("name").value;
+        // /////// const name = document.querySelector("#name").value;
+        // alert(`Hello ${name}`);
+      };
+      document.querySelector("form").addEventListener("submit", (e) => {
+        e.preventDefault();
+        const name = document.getElementById("name").value;
+        alert(`Hello ${name}`);
+      });
+    </script>
+  </body>
+</html>
