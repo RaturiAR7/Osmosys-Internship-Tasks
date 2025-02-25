@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Hello world!"),function(){const e=(()=>{const e={};return e.name=prompt("Please enter your name:"),e.age=prompt("Please enter your age:"),e})();alert(`My name is ${e.name} and I am ${e.age} years old`),alert("Hello world!")}()})();

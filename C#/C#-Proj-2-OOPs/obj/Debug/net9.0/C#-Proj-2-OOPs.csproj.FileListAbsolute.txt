@@ -1,0 +1,15 @@
+D:\Work\Osmosys Internship\C#\C#-Proj-2-OOPs\bin\Debug\net9.0\C#-Proj-2-OOPs.exe
+D:\Work\Osmosys Internship\C#\C#-Proj-2-OOPs\bin\Debug\net9.0\C#-Proj-2-OOPs.deps.json
+D:\Work\Osmosys Internship\C#\C#-Proj-2-OOPs\bin\Debug\net9.0\C#-Proj-2-OOPs.runtimeconfig.json
+D:\Work\Osmosys Internship\C#\C#-Proj-2-OOPs\bin\Debug\net9.0\C#-Proj-2-OOPs.dll
+D:\Work\Osmosys Internship\C#\C#-Proj-2-OOPs\bin\Debug\net9.0\C#-Proj-2-OOPs.pdb
+D:\Work\Osmosys Internship\C#\C#-Proj-2-OOPs\obj\Debug\net9.0\C#-Proj-2-OOPs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Osmosys Internship\C#\C#-Proj-2-OOPs\obj\Debug\net9.0\C#-Proj-2-OOPs.AssemblyInfoInputs.cache
+D:\Work\Osmosys Internship\C#\C#-Proj-2-OOPs\obj\Debug\net9.0\C#-Proj-2-OOPs.AssemblyInfo.cs
+D:\Work\Osmosys Internship\C#\C#-Proj-2-OOPs\obj\Debug\net9.0\C#-Proj-2-OOPs.csproj.CoreCompileInputs.cache
+D:\Work\Osmosys Internship\C#\C#-Proj-2-OOPs\obj\Debug\net9.0\C#-Proj-2-OOPs.sourcelink.json
+D:\Work\Osmosys Internship\C#\C#-Proj-2-OOPs\obj\Debug\net9.0\C#-Proj-2-OOPs.dll
+D:\Work\Osmosys Internship\C#\C#-Proj-2-OOPs\obj\Debug\net9.0\refint\C#-Proj-2-OOPs.dll
+D:\Work\Osmosys Internship\C#\C#-Proj-2-OOPs\obj\Debug\net9.0\C#-Proj-2-OOPs.pdb
+D:\Work\Osmosys Internship\C#\C#-Proj-2-OOPs\obj\Debug\net9.0\C#-Proj-2-OOPs.genruntimeconfig.cache
+D:\Work\Osmosys Internship\C#\C#-Proj-2-OOPs\obj\Debug\net9.0\ref\C#-Proj-2-OOPs.dll
